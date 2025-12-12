@@ -1,1 +1,1 @@
-# fashion_hub-group_project
+# Fashion_Hub-group_project
